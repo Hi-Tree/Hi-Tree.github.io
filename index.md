@@ -1,19 +1,7 @@
 ---
 layout: default
-title: Embed 3D plots with rgl
-output: html_document
+title: Projects
 ---
-
-```{r, setup}
-library(rgl)
-knitr::knit_hooks$set(webgl = hook_webgl)
-```
-```{r, test-rgl, webgl=TRUE}
-x <- sort(rnorm(1000))
-y <- rnorm(1000)
-z <- rnorm(1000) + atan2(x,y)
-plot3d(x, y, z, col = rainbow(1000))
-```
 
 # Quantum Mechanics Using Python
 [Project Link](https://github.com/Hi-Tree/QuantumMechanics/tree/main/Project1)
