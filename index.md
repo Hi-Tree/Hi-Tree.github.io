@@ -6,7 +6,7 @@ layout: default
 
 
 # Quantum Mechanics Using Python
-[Project Link:]("https://github.com/Hi-Tree/QuantumMechanics/tree/main/Project1")
+[Project Link](https://github.com/Hi-Tree/QuantumMechanics/tree/main/Project1)
 ```python
 
 ```
